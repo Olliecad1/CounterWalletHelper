@@ -1,4 +1,4 @@
-## CounterWalletHelper.py is a Python script that if you have lost your public and private keys you can get them back with using counterwallethelper.py and by using your passphrase you got given when signed up to counterwallet 
+### CounterWalletHelper.py is a Python script that if you have lost your public and private keys you can get them back with using counterwallethelper.py and by using your passphrase you got given when signed up to counterwallet 
 ### CounterWalletHelper On Linux
  
 1. Install a linux OS (This was tested on a raspberry pi 2 with jessie os )
