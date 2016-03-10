@@ -7,8 +7,8 @@
 3. install it at this link https://github.com/Olliecad1/CounterWalletHelper/archive/master.zip or install wget sudo apt-get install wget python-pip -y
 4. or they other way to Download CounterWalletHelper.py wget http://github.com/Olliecad1/CounterWalletHelper/CounterWalletHelper.py
 5. install missing Python packages
-sudo pip install bip32utils
-sudo pip install ecdsa
+####sudo pip install bip32utils
+####sudo pip install ecdsa
 6. Now get your pass phrase and run the following commands
 python CounterWalletHelper.py -h
 7. now to get a list of your addresses and their private keys USE YOUR OWN PRIVATE PASS PHRASE (The pass phrase used below is just an example).
