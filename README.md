@@ -10,9 +10,7 @@
 > sudo pip install bip32utils
 > sudo pip install ecdsa
 6. Now get your pass phrase and run the following commands
-''' python 
 python CounterWalletHelper.py -h
-'''
 7. now to get a list of your addresses and their private keys USE YOUR OWN PRIVATE PASS PHRASE (The pass phrase used below is just an example).
 python CounterWalletHelper.py wallet --pass-phrase "then here would go your pass phrase"
 This isn't a code to type in but you will have to wait for maybe about 5 seconds
