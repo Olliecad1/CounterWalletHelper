@@ -3,8 +3,8 @@
  
 1 Install a linux OS (This was tested on a raspberry pi 2 with jessie os )
 2 You may have to update your os before doing this im not sure since i dont know what os your would be using all that is required is python 2.x and counterwallethelper.py 
-3 install it at this link http://github.com/olliecad1/CounterWalletHelper/CounterWalletHelper.py or install wget sudo apt-get install wget python-pip -y
-4 or they other way to Download CounterWalletHelper.py wget http://github.com/olliecad1/CounterWalletHelper/CounterWalletHelper.py
+3 install it at this link https://github.com/Olliecad1/CounterWalletHelper/archive/master.zip or install wget sudo apt-get install wget python-pip -y
+4 or they other way to Download CounterWalletHelper.py wget http://github.com/Olliecad1/CounterWalletHelper/CounterWalletHelper.py
 5 install missing Python packages
 #### sudo pip install bip32utils
 #### sudo pip install ecdsa
